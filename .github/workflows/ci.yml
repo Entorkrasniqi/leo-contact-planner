@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        java: [17, 21]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: ${{ matrix.java }}
+          cache: maven
+      - name: Build and run the unit tests
+        run: mvn -B verify
+      - name: Run the planner on the bundled demo data
+        run: >
+          mvn -B -q compile exec:java
+          -Dexec.args="--tle data/demo_sats.tle --stations data/stations.csv --start 2026-10-24T00:00:00Z --hours 24 --out out"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Independent cross-check with the sgp4 Python package
+        run: |
+          pip install sgp4 numpy
+          python tools/crosscheck.py --tle data/demo_sats.tle --stations data/stations.csv \
+            --passes out/passes.csv --start 2026-10-24T00:00:00Z --hours 24

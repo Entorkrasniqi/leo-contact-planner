@@ -1,0 +1,209 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" font-family="Helvetica, Arial, sans-serif" font-size="12">
+<rect width="100%" height="100%" fill="white"/>
+<text x="150" y="24" font-size="15" font-weight="bold">Contact plan (exact): 89 of 162 passes scheduled, 6972 Gbit</text>
+<text x="150" y="42" fill="#555">2026-10-24T00:00:00.000Z to 2026-10-25T00:00:00.000Z (UTC). Filled = scheduled, dashed = possible but not used.</text>
+<line x1="150.0" y1="68" x2="150.0" y2="260" stroke="#ddd"/>
+<text x="150.0" y="64" text-anchor="middle" fill="#555">+0h</text>
+<line x1="227.5" y1="68" x2="227.5" y2="260" stroke="#ddd"/>
+<text x="227.5" y="64" text-anchor="middle" fill="#555">+2h</text>
+<line x1="305.0" y1="68" x2="305.0" y2="260" stroke="#ddd"/>
+<text x="305.0" y="64" text-anchor="middle" fill="#555">+4h</text>
+<line x1="382.5" y1="68" x2="382.5" y2="260" stroke="#ddd"/>
+<text x="382.5" y="64" text-anchor="middle" fill="#555">+6h</text>
+<line x1="460.0" y1="68" x2="460.0" y2="260" stroke="#ddd"/>
+<text x="460.0" y="64" text-anchor="middle" fill="#555">+8h</text>
+<line x1="537.5" y1="68" x2="537.5" y2="260" stroke="#ddd"/>
+<text x="537.5" y="64" text-anchor="middle" fill="#555">+10h</text>
+<line x1="615.0" y1="68" x2="615.0" y2="260" stroke="#ddd"/>
+<text x="615.0" y="64" text-anchor="middle" fill="#555">+12h</text>
+<line x1="692.5" y1="68" x2="692.5" y2="260" stroke="#ddd"/>
+<text x="692.5" y="64" text-anchor="middle" fill="#555">+14h</text>
+<line x1="770.0" y1="68" x2="770.0" y2="260" stroke="#ddd"/>
+<text x="770.0" y="64" text-anchor="middle" fill="#555">+16h</text>
+<line x1="847.5" y1="68" x2="847.5" y2="260" stroke="#ddd"/>
+<text x="847.5" y="64" text-anchor="middle" fill="#555">+18h</text>
+<line x1="925.0" y1="68" x2="925.0" y2="260" stroke="#ddd"/>
+<text x="925.0" y="64" text-anchor="middle" fill="#555">+20h</text>
+<line x1="1002.5" y1="68" x2="1002.5" y2="260" stroke="#ddd"/>
+<text x="1002.5" y="64" text-anchor="middle" fill="#555">+22h</text>
+<line x1="1080.0" y1="68" x2="1080.0" y2="260" stroke="#ddd"/>
+<text x="1080.0" y="64" text-anchor="middle" fill="#555">+24h</text>
+<text x="140" y="94" text-anchor="end" font-weight="bold">Helsinki</text>
+<line x1="150" y1="117" x2="1080" y2="117" stroke="#eee"/>
+<text x="140" y="140" text-anchor="end" font-weight="bold">Inuvik</text>
+<line x1="150" y1="163" x2="1080" y2="163" stroke="#eee"/>
+<text x="140" y="186" text-anchor="end" font-weight="bold">Kiruna</text>
+<line x1="150" y1="209" x2="1080" y2="209" stroke="#eee"/>
+<text x="140" y="232" text-anchor="end" font-weight="bold">Svalbard</text>
+<line x1="150" y1="255" x2="1080" y2="255" stroke="#eee"/>
+<rect x="150.0" y="214" width="1.5" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T00:00:00.000Z to 2026-10-24T00:00:34.751Z UTC, 35 s, max elevation 6.6 deg, 1738 Mbit</title></rect>
+<rect x="157.0" y="168" width="4.4" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T00:10:52.246Z to 2026-10-24T00:17:40.572Z UTC, 408 s, max elevation 12.8 deg, 42116 Mbit</title></rect>
+<rect x="169.9" y="76" width="5.0" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Helsinki: 2026-10-24T00:30:48.285Z to 2026-10-24T00:38:28.325Z UTC, 460 s, max elevation 44.0 deg, 103556 Mbit</title></rect>
+<rect x="172.4" y="214" width="6.2" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T00:34:44.106Z to 2026-10-24T00:44:20.724Z UTC, 577 s, max elevation 41.8 deg, 108381 Mbit</title></rect>
+<rect x="193.9" y="214" width="2.6" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T01:08:00.596Z to 2026-10-24T01:12:04.361Z UTC, 244 s, max elevation 7.0 deg, 12188 Mbit</title></rect>
+<rect x="209.9" y="214" width="2.0" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T01:32:46.637Z to 2026-10-24T01:35:51.123Z UTC, 184 s, max elevation 6.1 deg, 9224 Mbit</title></rect>
+<rect x="217.1" y="168" width="5.5" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T01:43:50.720Z to 2026-10-24T01:52:23.735Z UTC, 513 s, max elevation 22.9 deg, 63551 Mbit</title></rect>
+<rect x="217.7" y="76" width="2.1" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Helsinki: 2026-10-24T01:44:50.296Z to 2026-10-24T01:48:02.507Z UTC, 192 s, max elevation 12.2 deg, 28732 Mbit</title></rect>
+<rect x="223.9" y="122" width="3.9" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T01:54:29.504Z to 2026-10-24T02:00:33.262Z UTC, 364 s, max elevation 10.2 deg, 24788 Mbit</title></rect>
+<rect x="234.7" y="214" width="5.5" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T02:11:06.791Z to 2026-10-24T02:19:40.907Z UTC, 514 s, max elevation 21.3 deg, 63006 Mbit</title></rect>
+<rect x="277.0" y="76" width="4.9" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Helsinki: 2026-10-24T03:16:42.953Z to 2026-10-24T03:24:22.594Z UTC, 460 s, max elevation 46.5 deg, 104246 Mbit</title></rect>
+<rect x="279.3" y="214" width="6.4" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T03:20:11.269Z to 2026-10-24T03:30:04.409Z UTC, 593 s, max elevation 72.4 deg, 118157 Mbit</title></rect>
+<rect x="297.6" y="214" width="4.2" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T03:48:31.646Z to 2026-10-24T03:55:04.387Z UTC, 393 s, max elevation 11.4 deg, 35837 Mbit</title></rect>
+<rect x="338.7" y="76" width="4.6" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Helsinki: 2026-10-24T04:52:06.473Z to 2026-10-24T04:59:12.857Z UTC, 426 s, max elevation 30.1 deg, 86208 Mbit</title></rect>
+<rect x="341.1" y="214" width="6.1" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T04:55:51.651Z to 2026-10-24T05:05:18.956Z UTC, 567 s, max elevation 35.8 deg, 102515 Mbit</title></rect>
+<rect x="361.2" y="214" width="2.1" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T05:27:02.973Z to 2026-10-24T05:30:21.997Z UTC, 199 s, max elevation 6.3 deg, 9951 Mbit</title></rect>
+<rect x="403.5" y="214" width="5.3" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T06:32:27.463Z to 2026-10-24T06:40:40.266Z UTC, 493 s, max elevation 18.5 deg, 58840 Mbit</title></rect>
+<rect x="446.0" y="168" width="4.0" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T07:38:17.793Z to 2026-10-24T07:44:27.124Z UTC, 369 s, max elevation 10.4 deg, 27767 Mbit</title></rect>
+<rect x="461.1" y="168" width="4.8" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T08:01:46.644Z to 2026-10-24T08:09:12.244Z UTC, 446 s, max elevation 14.4 deg, 49180 Mbit</title></rect>
+<rect x="463.3" y="76" width="3.3" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Helsinki: 2026-10-24T08:05:09.143Z to 2026-10-24T08:10:11.524Z UTC, 302 s, max elevation 16.0 deg, 45257 Mbit</title></rect>
+<rect x="466.5" y="214" width="3.8" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T08:10:06.554Z to 2026-10-24T08:16:03.692Z UTC, 357 s, max elevation 10.0 deg, 17857 Mbit</title></rect>
+<rect x="505.3" y="214" width="5.8" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T09:10:11.923Z to 2026-10-24T09:19:13.406Z UTC, 541 s, max elevation 26.6 deg, 81524 Mbit</title></rect>
+<rect x="507.0" y="168" width="6.1" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T09:12:44.851Z to 2026-10-24T09:22:11.818Z UTC, 567 s, max elevation 36.1 deg, 102798 Mbit</title></rect>
+<rect x="520.7" y="214" width="6.0" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T09:34:02.057Z to 2026-10-24T09:43:19.495Z UTC, 557 s, max elevation 31.4 deg, 95622 Mbit</title></rect>
+<rect x="524.1" y="76" width="5.2" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Helsinki: 2026-10-24T09:39:12.839Z to 2026-10-24T09:47:13.270Z UTC, 480 s, max elevation 88.3 deg, 112765 Mbit</title></rect>
+<rect x="530.3" y="214" width="1.5" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T09:48:55.692Z to 2026-10-24T09:51:14.821Z UTC, 139 s, max elevation 5.6 deg, 6956 Mbit</title></rect>
+<rect x="566.9" y="214" width="6.3" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T10:45:29.958Z to 2026-10-24T10:55:16.711Z UTC, 587 s, max elevation 53.4 deg, 114338 Mbit</title></rect>
+<rect x="570.3" y="76" width="4.4" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Helsinki: 2026-10-24T10:50:47.140Z to 2026-10-24T10:57:34.284Z UTC, 407 s, max elevation 27.3 deg, 76422 Mbit</title></rect>
+<rect x="583.7" y="168" width="6.2" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T11:11:32.902Z to 2026-10-24T11:21:06.746Z UTC, 574 s, max elevation 44.8 deg, 109192 Mbit</title></rect>
+<rect x="585.8" y="76" width="3.7" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Helsinki: 2026-10-24T11:14:48.399Z to 2026-10-24T11:20:36.614Z UTC, 348 s, max elevation 19.7 deg, 52132 Mbit</title></rect>
+<rect x="612.6" y="168" width="4.6" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T11:56:20.540Z to 2026-10-24T12:03:30.813Z UTC, 430 s, max elevation 13.4 deg, 45714 Mbit</title></rect>
+<rect x="614.9" y="76" width="2.9" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Helsinki: 2026-10-24T11:59:51.180Z to 2026-10-24T12:04:23.439Z UTC, 272 s, max elevation 14.6 deg, 40739 Mbit</title></rect>
+<rect x="629.7" y="168" width="5.5" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T12:22:49.678Z to 2026-10-24T12:31:19.005Z UTC, 509 s, max elevation 22.3 deg, 62866 Mbit</title></rect>
+<rect x="645.1" y="168" width="5.2" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T12:46:33.314Z to 2026-10-24T12:54:35.621Z UTC, 482 s, max elevation 18.7 deg, 57715 Mbit</title></rect>
+<rect x="672.2" y="214" width="6.0" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T13:28:31.865Z to 2026-10-24T13:37:45.930Z UTC, 554 s, max elevation 30.2 deg, 93003 Mbit</title></rect>
+<rect x="673.8" y="168" width="6.3" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T13:31:00.022Z to 2026-10-24T13:40:40.957Z UTC, 581 s, max elevation 46.6 deg, 111297 Mbit</title></rect>
+<rect x="690.9" y="168" width="4.4" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T13:57:31.528Z to 2026-10-24T14:04:16.837Z UTC, 405 s, max elevation 12.7 deg, 41365 Mbit</title></rect>
+<rect x="706.1" y="168" width="4.2" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T14:21:04.545Z to 2026-10-24T14:27:31.923Z UTC, 387 s, max elevation 11.7 deg, 36769 Mbit</title></rect>
+<rect x="735.2" y="168" width="6.2" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T15:06:03.543Z to 2026-10-24T15:15:40.771Z UTC, 577 s, max elevation 47.9 deg, 110911 Mbit</title></rect>
+<rect x="737.2" y="76" width="3.9" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Helsinki: 2026-10-24T15:09:14.970Z to 2026-10-24T15:15:18.708Z UTC, 364 s, max elevation 21.2 deg, 54461 Mbit</title></rect>
+<rect x="751.5" y="168" width="4.1" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T15:31:17.679Z to 2026-10-24T15:37:38.009Z UTC, 380 s, max elevation 11.4 deg, 34817 Mbit</title></rect>
+<rect x="766.5" y="168" width="4.2" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T15:54:34.232Z to 2026-10-24T16:01:08.713Z UTC, 394 s, max elevation 12.1 deg, 38624 Mbit</title></rect>
+<rect x="781.0" y="168" width="5.2" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T16:17:05.396Z to 2026-10-24T16:25:08.552Z UTC, 483 s, max elevation 17.6 deg, 57058 Mbit</title></rect>
+<rect x="783.0" y="76" width="3.9" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Helsinki: 2026-10-24T16:20:12.126Z to 2026-10-24T16:26:18.972Z UTC, 367 s, max elevation 20.8 deg, 54927 Mbit</title></rect>
+<rect x="796.5" y="168" width="5.3" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T16:41:04.720Z to 2026-10-24T16:49:13.384Z UTC, 489 s, max elevation 19.4 deg, 59033 Mbit</title></rect>
+<rect x="811.5" y="168" width="5.0" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T17:04:15.375Z to 2026-10-24T17:12:02.183Z UTC, 467 s, max elevation 17.1 deg, 54740 Mbit</title></rect>
+<rect x="826.5" y="168" width="5.3" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T17:27:30.626Z to 2026-10-24T17:35:44.922Z UTC, 494 s, max elevation 20.1 deg, 60015 Mbit</title></rect>
+<rect x="833.4" y="122" width="3.1" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T17:38:09.189Z to 2026-10-24T17:42:58.751Z UTC, 290 s, max elevation 8.0 deg, 14478 Mbit</title></rect>
+<rect x="840.7" y="214" width="6.1" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T17:49:30.448Z to 2026-10-24T17:58:56.516Z UTC, 566 s, max elevation 35.1 deg, 101653 Mbit</title></rect>
+<rect x="844.0" y="76" width="5.1" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Helsinki: 2026-10-24T17:54:39.108Z to 2026-10-24T18:02:35.857Z UTC, 477 s, max elevation 69.8 deg, 111462 Mbit</title></rect>
+<rect x="857.6" y="168" width="4.2" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T18:15:38.629Z to 2026-10-24T18:22:09.587Z UTC, 391 s, max elevation 11.9 deg, 37748 Mbit</title></rect>
+<rect x="871.5" y="76" width="4.2" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Helsinki: 2026-10-24T18:37:07.877Z to 2026-10-24T18:43:40.360Z UTC, 392 s, max elevation 24.8 deg, 58772 Mbit</title></rect>
+<rect x="873.2" y="214" width="6.4" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T18:39:43.031Z to 2026-10-24T18:49:36.824Z UTC, 594 s, max elevation 87.7 deg, 118740 Mbit</title></rect>
+<rect x="886.5" y="76" width="4.7" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Helsinki: 2026-10-24T19:00:19.655Z to 2026-10-24T19:07:37.400Z UTC, 438 s, max elevation 35.2 deg, 94062 Mbit</title></rect>
+<rect x="888.5" y="214" width="6.4" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T19:03:29.449Z to 2026-10-24T19:13:23.394Z UTC, 594 s, max elevation 80.7 deg, 118597 Mbit</title></rect>
+<rect x="903.7" y="168" width="6.1" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T19:26:58.969Z to 2026-10-24T19:36:21.951Z UTC, 563 s, max elevation 37.5 deg, 103149 Mbit</title></rect>
+<rect x="905.9" y="76" width="3.2" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Helsinki: 2026-10-24T19:30:28.758Z to 2026-10-24T19:35:25.834Z UTC, 297 s, max elevation 16.1 deg, 44461 Mbit</title></rect>
+<rect x="918.0" y="168" width="4.2" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T19:49:12.017Z to 2026-10-24T19:55:42.598Z UTC, 391 s, max elevation 11.9 deg, 37629 Mbit</title></rect>
+<rect x="932.2" y="76" width="5.1" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Helsinki: 2026-10-24T20:11:06.378Z to 2026-10-24T20:19:02.533Z UTC, 476 s, max elevation 64.3 deg, 110923 Mbit</title></rect>
+<rect x="934.7" y="214" width="6.3" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T20:15:03.977Z to 2026-10-24T20:24:47.219Z UTC, 583 s, max elevation 48.4 deg, 112212 Mbit</title></rect>
+<rect x="947.7" y="76" width="4.9" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Helsinki: 2026-10-24T20:35:07.056Z to 2026-10-24T20:42:41.592Z UTC, 455 s, max elevation 40.6 deg, 100930 Mbit</title></rect>
+<rect x="950.2" y="214" width="6.2" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T20:39:01.461Z to 2026-10-24T20:48:36.315Z UTC, 575 s, max elevation 40.5 deg, 107193 Mbit</title></rect>
+<rect x="965.0" y="168" width="5.0" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T21:01:56.788Z to 2026-10-24T21:09:41.207Z UTC, 464 s, max elevation 16.9 deg, 54221 Mbit</title></rect>
+<rect x="978.0" y="168" width="5.3" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T21:22:08.260Z to 2026-10-24T21:30:16.248Z UTC, 488 s, max elevation 19.3 deg, 58899 Mbit</title></rect>
+<rect x="984.9" y="122" width="2.8" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T21:32:49.196Z to 2026-10-24T21:37:08.011Z UTC, 259 s, max elevation 7.3 deg, 12941 Mbit</title></rect>
+<rect x="995.6" y="76" width="2.0" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Helsinki: 2026-10-24T21:49:17.619Z to 2026-10-24T21:52:21.227Z UTC, 184 s, max elevation 11.8 deg, 27441 Mbit</title></rect>
+<rect x="996.8" y="214" width="5.7" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T21:51:14.823Z to 2026-10-24T22:00:06.153Z UTC, 531 s, max elevation 24.3 deg, 66366 Mbit</title></rect>
+<rect x="1012.5" y="214" width="5.5" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T22:15:26.773Z to 2026-10-24T22:23:56.733Z UTC, 510 s, max elevation 20.7 deg, 62198 Mbit</title></rect>
+<rect x="1026.0" y="168" width="4.1" height="26" fill="none" stroke="#CC79A7" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T22:36:19.775Z to 2026-10-24T22:42:39.227Z UTC, 379 s, max elevation 11.4 deg, 34573 Mbit</title></rect>
+<rect x="1038.0" y="76" width="4.6" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Helsinki: 2026-10-24T22:54:57.202Z to 2026-10-24T23:02:06.006Z UTC, 429 s, max elevation 32.4 deg, 89571 Mbit</title></rect>
+<rect x="1040.0" y="214" width="6.4" height="26" fill="none" stroke="#009E73" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T22:57:59.886Z to 2026-10-24T23:07:53.920Z UTC, 594 s, max elevation 83.4 deg, 118752 Mbit</title></rect>
+<rect x="1059.6" y="214" width="4.6" height="26" fill="none" stroke="#D55E00" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T23:28:26.496Z to 2026-10-24T23:35:29.366Z UTC, 423 s, max elevation 12.9 deg, 43844 Mbit</title></rect>
+<rect x="1078.2" y="122" width="1.8" height="26" fill="none" stroke="#0072B2" stroke-dasharray="3 2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T23:57:09.515Z to 2026-10-25T00:00:00.000Z UTC, 170 s, max elevation 13.9 deg, 17073 Mbit</title></rect>
+<rect x="150.0" y="122" width="3.7" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T00:00:00.000Z to 2026-10-24T00:05:39.568Z UTC, 340 s, max elevation 14.6 deg, 42478 Mbit</title></rect>
+<rect x="156.8" y="214" width="6.2" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T00:10:32.099Z to 2026-10-24T00:20:10.892Z UTC, 579 s, max elevation 49.0 deg, 111640 Mbit</title></rect>
+<rect x="170.6" y="168" width="6.2" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T00:31:54.733Z to 2026-10-24T00:41:35.113Z UTC, 580 s, max elevation 46.1 deg, 111019 Mbit</title></rect>
+<rect x="177.8" y="122" width="6.4" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T00:43:03.414Z to 2026-10-24T00:52:56.600Z UTC, 593 s, max elevation 85.6 deg, 118709 Mbit</title></rect>
+<rect x="194.6" y="122" width="4.2" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T01:08:59.220Z to 2026-10-24T01:15:32.024Z UTC, 393 s, max elevation 12.0 deg, 38240 Mbit</title></rect>
+<rect x="209.7" y="122" width="4.2" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T01:32:23.254Z to 2026-10-24T01:38:55.626Z UTC, 392 s, max elevation 12.0 deg, 38119 Mbit</title></rect>
+<rect x="217.9" y="214" width="6.3" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T01:45:11.433Z to 2026-10-24T01:55:00.751Z UTC, 589 s, max elevation 66.2 deg, 116666 Mbit</title></rect>
+<rect x="233.4" y="168" width="4.6" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T02:09:06.238Z to 2026-10-24T02:16:14.161Z UTC, 428 s, max elevation 13.3 deg, 45196 Mbit</title></rect>
+<rect x="239.2" y="122" width="5.8" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T02:18:07.382Z to 2026-10-24T02:27:07.002Z UTC, 540 s, max elevation 28.6 deg, 87431 Mbit</title></rect>
+<rect x="254.8" y="122" width="4.7" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T02:42:16.459Z to 2026-10-24T02:49:30.276Z UTC, 434 s, max elevation 14.4 deg, 47891 Mbit</title></rect>
+<rect x="269.8" y="122" width="4.9" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T03:05:31.400Z to 2026-10-24T03:13:08.647Z UTC, 457 s, max elevation 16.2 deg, 52762 Mbit</title></rect>
+<rect x="277.7" y="168" width="6.3" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T03:17:39.677Z to 2026-10-24T03:27:27.200Z UTC, 588 s, max elevation 63.4 deg, 116076 Mbit</title></rect>
+<rect x="284.9" y="122" width="6.1" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T03:28:57.278Z to 2026-10-24T03:38:21.141Z UTC, 564 s, max elevation 34.4 deg, 100493 Mbit</title></rect>
+<rect x="300.4" y="122" width="4.8" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T03:52:56.021Z to 2026-10-24T04:00:17.494Z UTC, 441 s, max elevation 15.0 deg, 49474 Mbit</title></rect>
+<rect x="315.0" y="122" width="5.7" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T04:15:24.425Z to 2026-10-24T04:24:16.381Z UTC, 532 s, max elevation 26.6 deg, 80348 Mbit</title></rect>
+<rect x="330.1" y="122" width="6.0" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T04:38:48.142Z to 2026-10-24T04:48:01.558Z UTC, 553 s, max elevation 33.1 deg, 97271 Mbit</title></rect>
+<rect x="336.2" y="214" width="1.5" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T04:48:20.910Z to 2026-10-24T04:49:27.473Z UTC, 67 s, max elevation 5.1 deg, 3328 Mbit</title></rect>
+<rect x="339.3" y="168" width="6.1" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T04:53:04.757Z to 2026-10-24T05:02:28.395Z UTC, 564 s, max elevation 34.4 deg, 100582 Mbit</title></rect>
+<rect x="346.3" y="122" width="6.3" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T05:03:58.816Z to 2026-10-24T05:13:47.433Z UTC, 589 s, max elevation 65.4 deg, 116631 Mbit</title></rect>
+<rect x="361.2" y="122" width="4.2" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T05:26:59.423Z to 2026-10-24T05:33:31.189Z UTC, 392 s, max elevation 12.0 deg, 37888 Mbit</title></rect>
+<rect x="375.7" y="122" width="6.4" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T05:49:27.945Z to 2026-10-24T05:59:19.903Z UTC, 592 s, max elevation 77.3 deg, 117998 Mbit</title></rect>
+<rect x="382.1" y="214" width="3.0" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T05:59:27.215Z to 2026-10-24T06:04:02.449Z UTC, 275 s, max elevation 7.6 deg, 13762 Mbit</title></rect>
+<rect x="391.0" y="122" width="6.4" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T06:13:12.739Z to 2026-10-24T06:23:05.994Z UTC, 593 s, max elevation 77.8 deg, 118313 Mbit</title></rect>
+<rect x="397.5" y="214" width="3.5" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T06:23:16.909Z to 2026-10-24T06:28:40.641Z UTC, 324 s, max elevation 8.9 deg, 16187 Mbit</title></rect>
+<rect x="402.5" y="168" width="3.8" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T06:30:56.643Z to 2026-10-24T06:36:52.445Z UTC, 356 s, max elevation 9.9 deg, 17790 Mbit</title></rect>
+<rect x="407.7" y="122" width="5.6" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T06:39:01.347Z to 2026-10-24T06:47:40.583Z UTC, 519 s, max elevation 24.0 deg, 64662 Mbit</title></rect>
+<rect x="421.4" y="122" width="4.9" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T07:00:09.308Z to 2026-10-24T07:07:40.907Z UTC, 452 s, max elevation 15.7 deg, 51580 Mbit</title></rect>
+<rect x="437.5" y="122" width="5.9" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T07:25:09.753Z to 2026-10-24T07:34:19.654Z UTC, 550 s, max elevation 29.1 deg, 90195 Mbit</title></rect>
+<rect x="443.7" y="214" width="4.8" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T07:34:49.003Z to 2026-10-24T07:42:10.318Z UTC, 441 s, max elevation 14.1 deg, 48166 Mbit</title></rect>
+<rect x="448.9" y="76" width="1.5" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Helsinki: 2026-10-24T07:42:49.617Z to 2026-10-24T07:44:22.882Z UTC, 93 s, max elevation 10.4 deg, 13890 Mbit</title></rect>
+<rect x="453.2" y="122" width="5.5" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T07:49:25.429Z to 2026-10-24T07:58:00.965Z UTC, 516 s, max elevation 21.6 deg, 63377 Mbit</title></rect>
+<rect x="459.1" y="214" width="5.1" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T07:58:39.942Z to 2026-10-24T08:06:32.070Z UTC, 472 s, max elevation 16.4 deg, 54706 Mbit</title></rect>
+<rect x="468.9" y="122" width="4.5" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T08:13:42.939Z to 2026-10-24T08:20:45.514Z UTC, 423 s, max elevation 13.7 deg, 45329 Mbit</title></rect>
+<rect x="481.6" y="122" width="5.9" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T08:33:23.678Z to 2026-10-24T08:42:32.412Z UTC, 549 s, max elevation 31.4 deg, 94187 Mbit</title></rect>
+<rect x="487.9" y="214" width="1.5" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T08:43:07.392Z to 2026-10-24T08:43:27.342Z UTC, 20 s, max elevation 5.0 deg, 997 Mbit</title></rect>
+<rect x="501.0" y="122" width="3.3" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T09:03:26.093Z to 2026-10-24T09:08:34.611Z UTC, 309 s, max elevation 8.5 deg, 15426 Mbit</title></rect>
+<rect x="508.8" y="76" width="5.1" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Helsinki: 2026-10-24T09:15:29.947Z to 2026-10-24T09:23:22.226Z UTC, 472 s, max elevation 56.4 deg, 109142 Mbit</title></rect>
+<rect x="517.5" y="122" width="1.5" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T09:29:02.227Z to 2026-10-24T09:31:25.029Z UTC, 143 s, max elevation 5.6 deg, 7140 Mbit</title></rect>
+<rect x="522.3" y="168" width="6.3" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T09:36:28.979Z to 2026-10-24T09:46:13.002Z UTC, 584 s, max elevation 50.5 deg, 113051 Mbit</title></rect>
+<rect x="529.5" y="122" width="4.3" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T09:47:32.887Z to 2026-10-24T09:54:09.180Z UTC, 396 s, max elevation 12.2 deg, 39115 Mbit</title></rect>
+<rect x="542.5" y="122" width="6.4" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T10:07:43.196Z to 2026-10-24T10:17:36.738Z UTC, 594 s, max elevation 83.6 deg, 118727 Mbit</title></rect>
+<rect x="549.0" y="214" width="3.4" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T10:17:46.710Z to 2026-10-24T10:22:59.721Z UTC, 313 s, max elevation 8.6 deg, 15651 Mbit</title></rect>
+<rect x="568.4" y="168" width="6.3" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T10:47:46.498Z to 2026-10-24T10:57:32.782Z UTC, 586 s, max elevation 60.6 deg, 115614 Mbit</title></rect>
+<rect x="582.3" y="214" width="6.4" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T11:09:18.208Z to 2026-10-24T11:19:09.436Z UTC, 591 s, max elevation 63.7 deg, 117011 Mbit</title></rect>
+<rect x="589.6" y="122" width="5.1" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T11:20:37.442Z to 2026-10-24T11:28:30.964Z UTC, 474 s, max elevation 17.7 deg, 56076 Mbit</title></rect>
+<rect x="604.5" y="122" width="5.6" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T11:43:48.478Z to 2026-10-24T11:52:33.006Z UTC, 525 s, max elevation 23.2 deg, 65126 Mbit</title></rect>
+<rect x="610.6" y="214" width="5.0" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T11:53:09.539Z to 2026-10-24T12:00:54.922Z UTC, 465 s, max elevation 15.9 deg, 53369 Mbit</title></rect>
+<rect x="628.3" y="214" width="6.4" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T12:20:38.893Z to 2026-10-24T12:30:32.122Z UTC, 593 s, max elevation 81.9 deg, 118561 Mbit</title></rect>
+<rect x="643.7" y="214" width="6.4" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T12:44:24.230Z to 2026-10-24T12:54:15.518Z UTC, 591 s, max elevation 72.3 deg, 117714 Mbit</title></rect>
+<rect x="649.9" y="122" width="6.1" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T12:54:01.907Z to 2026-10-24T13:03:27.310Z UTC, 565 s, max elevation 38.8 deg, 104470 Mbit</title></rect>
+<rect x="656.1" y="214" width="1.5" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T13:03:35.748Z to 2026-10-24T13:05:46.484Z UTC, 131 s, max elevation 5.5 deg, 6537 Mbit</title></rect>
+<rect x="668.6" y="122" width="2.1" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T13:22:59.875Z to 2026-10-24T13:26:15.573Z UTC, 196 s, max elevation 6.2 deg, 9785 Mbit</title></rect>
+<rect x="675.5" y="76" width="5.2" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Helsinki: 2026-10-24T13:33:43.862Z to 2026-10-24T13:41:43.983Z UTC, 480 s, max elevation 80.2 deg, 112718 Mbit</title></rect>
+<rect x="689.6" y="214" width="6.3" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T13:55:34.963Z to 2026-10-24T14:05:17.823Z UTC, 583 s, max elevation 53.9 deg, 113743 Mbit</title></rect>
+<rect x="705.0" y="214" width="6.2" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T14:19:16.759Z to 2026-10-24T14:28:57.088Z UTC, 580 s, max elevation 50.7 deg, 112416 Mbit</title></rect>
+<rect x="711.0" y="122" width="6.4" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T14:28:41.446Z to 2026-10-24T14:38:31.707Z UTC, 590 s, max elevation 62.8 deg, 116663 Mbit</title></rect>
+<rect x="717.5" y="214" width="3.8" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T14:38:45.621Z to 2026-10-24T14:44:38.206Z UTC, 353 s, max elevation 9.8 deg, 17629 Mbit</title></rect>
+<rect x="733.7" y="214" width="6.4" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T15:03:48.473Z to 2026-10-24T15:13:38.882Z UTC, 590 s, max elevation 61.2 deg, 116420 Mbit</title></rect>
+<rect x="750.8" y="214" width="6.2" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T15:30:17.602Z to 2026-10-24T15:39:54.663Z UTC, 577 s, max elevation 47.2 deg, 110753 Mbit</title></rect>
+<rect x="766.1" y="214" width="6.2" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T15:53:56.831Z to 2026-10-24T16:03:34.599Z UTC, 578 s, max elevation 47.9 deg, 111088 Mbit</title></rect>
+<rect x="773.4" y="122" width="5.2" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Inuvik: 2026-10-24T16:05:16.023Z to 2026-10-24T16:13:22.216Z UTC, 486 s, max elevation 17.9 deg, 57610 Mbit</title></rect>
+<rect x="779.1" y="214" width="5.3" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T16:14:09.013Z to 2026-10-24T16:22:19.060Z UTC, 490 s, max elevation 18.2 deg, 58402 Mbit</title></rect>
+<rect x="795.1" y="214" width="6.4" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T16:38:55.188Z to 2026-10-24T16:48:47.008Z UTC, 592 s, max elevation 74.3 deg, 117841 Mbit</title></rect>
+<rect x="811.9" y="214" width="6.3" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Svalbard: 2026-10-24T17:04:54.523Z to 2026-10-24T17:14:38.878Z UTC, 584 s, max elevation 56.2 deg, 114568 Mbit</title></rect>
+<rect x="818.8" y="122" width="1.5" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T17:15:35.768Z to 2026-10-24T17:17:04.373Z UTC, 89 s, max elevation 5.2 deg, 4430 Mbit</title></rect>
+<rect x="827.2" y="214" width="6.3" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T17:28:34.745Z to 2026-10-24T17:38:22.040Z UTC, 587 s, max elevation 61.5 deg, 115765 Mbit</title></rect>
+<rect x="842.3" y="168" width="6.4" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Kiruna: 2026-10-24T17:51:54.284Z to 2026-10-24T18:01:44.629Z UTC, 590 s, max elevation 63.3 deg, 116717 Mbit</title></rect>
+<rect x="856.4" y="214" width="6.3" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T18:13:48.537Z to 2026-10-24T18:23:29.409Z UTC, 581 s, max elevation 51.3 deg, 112544 Mbit</title></rect>
+<rect x="871.8" y="168" width="6.1" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T18:37:35.930Z to 2026-10-24T18:47:00.391Z UTC, 564 s, max elevation 38.4 deg, 104023 Mbit</title></rect>
+<rect x="878.9" y="122" width="5.5" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T18:48:38.401Z to 2026-10-24T18:57:07.421Z UTC, 509 s, max elevation 20.6 deg, 62051 Mbit</title></rect>
+<rect x="887.0" y="168" width="6.2" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T19:01:06.828Z to 2026-10-24T19:10:46.715Z UTC, 580 s, max elevation 51.0 deg, 112394 Mbit</title></rect>
+<rect x="894.2" y="122" width="5.9" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T19:12:19.298Z to 2026-10-24T19:21:24.632Z UTC, 545 s, max elevation 27.7 deg, 86067 Mbit</title></rect>
+<rect x="902.2" y="214" width="6.4" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T19:24:45.234Z to 2026-10-24T19:34:38.227Z UTC, 593 s, max elevation 71.1 deg, 118000 Mbit</title></rect>
+<rect x="917.6" y="214" width="6.2" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T19:48:29.151Z to 2026-10-24T19:58:06.676Z UTC, 578 s, max elevation 47.7 deg, 110926 Mbit</title></rect>
+<rect x="932.9" y="168" width="6.3" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T20:12:15.525Z to 2026-10-24T20:22:04.988Z UTC, 589 s, max elevation 61.3 deg, 116223 Mbit</title></rect>
+<rect x="940.2" y="122" width="6.4" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T20:23:32.393Z to 2026-10-24T20:33:25.355Z UTC, 593 s, max elevation 73.9 deg, 118148 Mbit</title></rect>
+<rect x="948.4" y="168" width="6.2" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T20:36:12.321Z to 2026-10-24T20:45:49.793Z UTC, 577 s, max elevation 43.4 deg, 109224 Mbit</title></rect>
+<rect x="955.6" y="122" width="6.4" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T20:47:18.426Z to 2026-10-24T20:57:11.181Z UTC, 593 s, max elevation 81.2 deg, 118438 Mbit</title></rect>
+<rect x="963.6" y="214" width="6.3" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T20:59:49.240Z to 2026-10-24T21:09:38.899Z UTC, 590 s, max elevation 67.0 deg, 116933 Mbit</title></rect>
+<rect x="978.7" y="214" width="6.3" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Svalbard: 2026-10-24T21:23:06.731Z to 2026-10-24T21:32:53.342Z UTC, 587 s, max elevation 60.1 deg, 115481 Mbit</title></rect>
+<rect x="995.3" y="168" width="5.1" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Kiruna: 2026-10-24T21:48:54.960Z to 2026-10-24T21:56:53.041Z UTC, 478 s, max elevation 17.1 deg, 56004 Mbit</title></rect>
+<rect x="1001.6" y="122" width="6.0" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T21:58:36.869Z to 2026-10-24T22:07:53.536Z UTC, 557 s, max elevation 34.4 deg, 99333 Mbit</title></rect>
+<rect x="1011.2" y="168" width="4.5" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Kiruna: 2026-10-24T22:13:31.427Z to 2026-10-24T22:20:26.325Z UTC, 415 s, max elevation 12.5 deg, 42045 Mbit</title></rect>
+<rect x="1016.9" y="122" width="5.8" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Inuvik: 2026-10-24T22:22:22.176Z to 2026-10-24T22:31:17.899Z UTC, 536 s, max elevation 27.5 deg, 84036 Mbit</title></rect>
+<rect x="1024.9" y="214" width="6.2" height="26" fill="#CC79A7" rx="2"><title>DEMO-SAR-4 over Svalbard: 2026-10-24T22:34:39.483Z to 2026-10-24T22:44:18.488Z UTC, 579 s, max elevation 49.2 deg, 111650 Mbit</title></rect>
+<rect x="1038.5" y="168" width="6.2" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Kiruna: 2026-10-24T22:55:40.573Z to 2026-10-24T23:05:17.343Z UTC, 577 s, max elevation 47.6 deg, 110789 Mbit</title></rect>
+<rect x="1045.7" y="122" width="5.8" height="26" fill="#009E73" rx="2"><title>DEMO-SAR-3 over Inuvik: 2026-10-24T23:06:50.963Z to 2026-10-24T23:15:49.018Z UTC, 538 s, max elevation 25.9 deg, 77803 Mbit</title></rect>
+<rect x="1062.9" y="122" width="5.0" height="26" fill="#D55E00" rx="2"><title>DEMO-SAR-2 over Inuvik: 2026-10-24T23:33:30.706Z to 2026-10-24T23:41:12.018Z UTC, 461 s, max elevation 16.6 deg, 53566 Mbit</title></rect>
+<rect x="1075.4" y="214" width="4.2" height="26" fill="#0072B2" rx="2"><title>DEMO-SAR-1 over Svalbard: 2026-10-24T23:52:54.505Z to 2026-10-24T23:59:20.222Z UTC, 386 s, max elevation 11.1 deg, 33686 Mbit</title></rect>
+<rect x="150" y="284" width="14" height="14" fill="#0072B2" rx="2"/>
+<text x="170" y="296">DEMO-SAR-1</text>
+<rect x="280" y="284" width="14" height="14" fill="#D55E00" rx="2"/>
+<text x="300" y="296">DEMO-SAR-2</text>
+<rect x="410" y="284" width="14" height="14" fill="#009E73" rx="2"/>
+<text x="430" y="296">DEMO-SAR-3</text>
+<rect x="540" y="284" width="14" height="14" fill="#CC79A7" rx="2"/>
+<text x="560" y="296">DEMO-SAR-4</text>
+</svg>

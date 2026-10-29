@@ -1,0 +1,18 @@
+Window: 2026-10-24T00:00:00.000Z .. 2026-10-25T00:00:00.000Z (24.0 h)
+4 satellites x 4 stations -> 162 possible passes, 11709 Gbit if all could be used
+
+[greedy]  85 of 162 passes, 6676.6 Gbit, 11.38 h of contact
+    Helsinki   busy   1.2% of the window
+    Inuvik     busy  19.6% of the window
+    Kiruna     busy   6.7% of the window
+    Svalbard   busy  19.9% of the window
+
+[exact] (optimal)  89 of 162 passes, 6972.0 Gbit, 11.96 h of contact
+    Helsinki   busy   1.2% of the window
+    Inuvik     busy  22.1% of the window
+    Kiruna     busy   9.3% of the window
+    Svalbard   busy  17.2% of the window
+
+exact vs greedy: +295.45 Gbit (+4.43%)
+
+Wrote passes.csv, schedule_*.csv and timeline_*.svg to docs/example

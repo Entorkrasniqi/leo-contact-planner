@@ -1,0 +1,7 @@
+# Ground stations: name,lat_deg,lon_deg,alt_m,min_elevation_deg
+# Coordinates are APPROXIMATE and chosen only to give a realistic spread of polar and
+# mid-latitude sites. They are illustrative, not the surveyed positions of any real antenna.
+Svalbard,78.23,15.41,450,5
+Kiruna,67.89,21.11,400,5
+Inuvik,68.36,-133.72,50,5
+Helsinki,60.17,24.94,20,10

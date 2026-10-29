@@ -1,0 +1,12 @@
+# Maven / Java build output
+target/
+*.class
+# program output (docs/example/ is committed on purpose; this is where you write your own runs)
+out/
+# editors / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+# python
+__pycache__/
