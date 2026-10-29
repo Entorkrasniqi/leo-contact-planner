@@ -12,7 +12,7 @@
   <description>Satellite pass prediction (Orekit) and ground-station contact scheduling</description>
 
   <properties>
-    <maven.compiler.release>25</maven.compiler.release>
+    <maven.compiler.release>21</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <orekit.version>13.1.9</orekit.version>
     <junit.version>5.11.4</junit.version>
