@@ -62,7 +62,7 @@ made up, and so are the data rates. It is a learning project that touches the sa
   that is *not* quite good enough, with the better one built next to it),
 * **independent validation** against a second, unrelated implementation.
 
-**Skills it trains:** Java 17 (records, interfaces, streams), Maven, the Orekit API, coordinate frames,
+**Skills it trains:** Java 25 (records, interfaces, streams), Maven, the Orekit API, coordinate frames,
 time scales (UTC and leap seconds), TLE/SGP4 orbit propagation, graph algorithms (maximum-weight
 independent set, connected components, branch and bound), JUnit testing including property tests against a
 brute-force referee, writing a CLI, generating SVG by hand.
@@ -215,7 +215,7 @@ and honestly reports `exact = false`.
 
 ## 3. Quick start
 
-You need **Java 17 or newer** and **Maven 3.9+** (`java -version`, `mvn -version`). Python 3 is needed only for the optional cross-check.
+You need **Java 25 or newer** and **Maven 3.9+** (`java -version`, `mvn -version`). Python 3 is needed only for the optional cross-check.
 
 ```bash
 git clone https://github.com/Entorkrasniqi/leo-contact-planner.git
@@ -512,7 +512,7 @@ leo-contact-planner/
 
 **Done and checked when this repo was created:**
 
-* All main and test code compiles without warnings (`javac -Xlint:all --release 17`) against Orekit 13.1.9 and Hipparchus 4.0.3.
+* All main and test code compiles without warnings (`javac -Xlint:all --release 25`) against Orekit 13.1.9 and Hipparchus 4.0.3.
 * All 41 tests pass, and the five hand-made mutations were each caught (section 6).
 * The independent Python cross-check passes (pass counts identical, timing within 3.7 ms).
 
